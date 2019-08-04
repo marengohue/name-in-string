@@ -1,0 +1,13 @@
+{
+  "name": "name-in-string",
+  "version": "1.0.0",
+  "main": "index.js",
+  "commands": {
+    "test": "node ./node_modules/mocha/bin"
+  },
+  "author": "mokonamodokidesu@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
